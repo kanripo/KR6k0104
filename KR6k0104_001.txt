@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:16.414816
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:52
 #+TITLE: 梵網經述記卷第一
 #+PROPERTY: CBETA_ID T85n2797
 #+PROPERTY: ID KR6k0104
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2797
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0104_T_000-0727a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0104_T_001-0727a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -1567,7 +1567,7 @@ No. 2797 [cf. No. 1484]¶
 陣戰死者命終生天。投火死者亦生天上。又¶
 說。天上種種快樂。辭章巧妙而作是說。使聚¶
 落主心意駭動。謂必有是。即作火坑聚香薪¶
-[卄/積]。作婆羅門會。諸人雲集時。聚落主將欲投¶
+𧂐。作婆羅門會。諸人雲集時。聚落主將欲投¶
 火。此聚落主與一釋種比丘先共相識。來至¶
 其家。見聚落主。於其家中。種種莊嚴。比丘問¶
 言。欲作何等。聚落主言。我欲生天。比丘問言。¶
@@ -1584,9 +1584,9 @@ No. 2797 [cf. No. 1484]¶
 「　斯諸婆羅門
 　樂為殺害事¶
 　是故我捨離
-　當入於佛法
+　當入於佛法」
 #+END_VERSE
-」¶
+¶
 
 比丘知彼心已。即為說法。乃至廣說。如是等¶
 書。名為殺法。殺因者。謂貪嗔癡及方便思。殺¶
